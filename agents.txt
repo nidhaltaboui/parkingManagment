@@ -1,0 +1,11 @@
+A001,John,Doe,Single,CIN123456789,0123456789,john.doe@example.com,123 Street,Manager,1 year
+A002,Jane,Smith,Married,CIN987654321,0987654321,jane.smith@example.com,456 Avenue,Technician,2 years
+A003,Michael,Johnson,Divorced,CIN112233445,0102030405,michael.johnson@example.com,789 Boulevard,Engineer,3 years
+A004,Linda,Brown,Single,CIN998877665,0607080910,linda.brown@example.com,101 Road,Developer,1 year
+A005,James,Williams,Married,CIN223344556,0712345678,james.williams@example.com,202 Lane,Technician,5 years
+A006,Patricia,Jones,Widowed,CIN667788990,0304050607,patricia.jones@example.com,303 Path,HR Specialist,4 years
+A007,Robert,Miller,Single,CIN112211223,0809091011,robert.miller@example.com,404 Way,Security Officer,6 months
+A008,Jennifer,Garcia,Married,CIN556677889,0910111213,jennifer.garcia@example.com,505 Crescent,Manager,2 years
+A009,William,Martinez,Single,CIN334455667,0123456789,william.martinez@example.com,606 Square,Analyst,1 year
+A010,Elizabeth,Roberts,Divorced,CIN778899665,0203040506,elizabeth.roberts@example.com,707 Road,Architect,3 years
+

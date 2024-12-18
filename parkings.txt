@@ -1,0 +1,9 @@
+1001;jhg;reset;outside;3;4565655;54DT;1;0
+12;hj;hj;Outside;7;2272727;2;1;0
+112233;nidhal;seattle;outside;9;08:30-20:00;4DT;1;0
+144;nidhal;ariana;Outside;14;08:30-20:00;5DT;1;0
+1133;amin;ariana;inside;38;07:00-20:00;5DT;1;0
+111;taboui's parking;beja;Covered;42;08:30-23:00;5DT;1;0
+;ariana soghra;Covered;26;08:00-09:00;0DT;1;0
+17;nidhal;beja;Outside;32;08:00-20:00;5DT;1;0
+123n;james;NY city;Outside;44;06:00-23:00;20DT;0;522221232
